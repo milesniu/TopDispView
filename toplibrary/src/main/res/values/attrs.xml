@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="english_text" format="string|reference" />
+    <attr name="english_textsize" format="dimension" />
+
+    <declare-styleable name="CHorizontalTextView">
+        <attr name="english_text" />
+        <attr name="english_textsize" />
+    </declare-styleable>
+
+    <declare-styleable name="CVerticalTextView">
+        <attr name="english_text" />
+        <attr name="english_textsize" />
+    </declare-styleable>
+
+</resources>
